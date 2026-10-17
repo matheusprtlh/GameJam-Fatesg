@@ -1,84 +1,84 @@
 # Game Jam Plus 2026/2027 — FATESG
 
-> **Nome do jogo: ainda não definido.** Este repositório reúne as decisões e ideias da equipe. Não tratar sugestões como decisões finais.
+> **游戏名称：尚未确定。** 本仓库汇总团队的决定与创意。请勿将提议视为最终决定。
 
-## Informações do evento
-- **Evento:** Game Jam Plus 2026/2027
-- **Local:** Faculdade SENAI FATESG, Goiânia (GO)
-- **Período:** 16 a 18 de outubro de 2026
+## 活动信息
+- **活动：** Game Jam Plus 2026/2027
+- **地点：** 巴西戈亚尼亚，SENAI FATESG 学院
+- **日期：** 2026 年 10 月 16 日至 18 日
 
-## Temas obrigatórios
-O jogo **deve incorporar os dois temas simultaneamente**:
-1. **One More Time** — "Mais uma vez": repetição, novas tentativas, ciclos ou recomeços.
-2. **Something's Wrong** — "Algo está errado": anomalias, mudanças inesperadas ou uma realidade que não funciona como deveria.
+## 必须体现的主题
+游戏**必须同时体现以下两个主题**：
+1. **One More Time（再来一次）：** 重复、再次尝试、循环或重新开始。
+2. **Something's Wrong（有些不对劲）：** 异常、意外变化或不符合预期的现实。
 
-## Decisões tomadas
-| Área | Definição |
+## 已确定的方向
+| 项目 | 定义 |
 | --- | --- |
-| Nome | **Pendente** |
-| Gênero | **Hack and Slash** |
-| Principal referência de gameplay | **Dead Cells** |
-| Foco | **Combate e desenvolvimento da fase**, sem foco em parkour |
-| Prioridade | **Fase > História** (gameplay e level design antes de narrativa elaborada) |
-| Direção visual | **Pixel art, indie, cozy e bioluminescente** |
-| Referência de dimensão | **16 × 32 pixels** (a aplicação exata aos sprites/elementos ainda será definida) |
-| Plataforma de lançamento | **A definir** |
-| Engine | **A definir** |
+| 名称 | **待定** |
+| 类型 | **砍杀动作游戏（Hack and Slash）** |
+| 主要玩法参考 | **Dead Cells** |
+| 重点 | **战斗与关卡设计**，不以跑酷为核心 |
+| 优先级 | **关卡 > 剧情**（先打磨玩法与关卡，再完善叙事） |
+| 美术方向 | **像素艺术、独立游戏风格、温馨氛围、生物荧光** |
+| 尺寸参考 | **16 × 32 像素**（具体用于哪些元素尚未确定） |
+| 目标平台 | **待定** |
+| 游戏引擎 | **待定** |
 
-## Referências de gameplay e combate
-- **Dead Cells:** referência principal já definida para combate Hack and Slash 2D.
-- **BlazBlue Entropy Effect:** nova referência sugerida para estudo de combos terrestres e aéreos, fluidez de ataques, dash/esquivas, habilidades especiais, variedade de estilos de luta e feedback visual dos golpes.
+## 玩法与战斗参考
+- **Dead Cells：** 已确定的主要二维砍杀战斗参考。
+- **BlazBlue Entropy Effect：** 新增的研究参考，包括地面与空中连招、流畅攻击、冲刺与闪避、特殊技能、多种战斗风格，以及清晰有力的打击反馈。
 
-**Status:** BlazBlue Entropy Effect foi adicionado como inspiração, não como decisão de implementar todas essas mecânicas. O escopo continua priorizando uma fase polida e combate responsivo, sem foco em parkour.
+**状态：** BlazBlue Entropy Effect 仅作为灵感参考，并不代表团队已经决定实现全部机制。项目仍以打磨单个关卡、实现响应迅速的战斗为优先，不以跑酷为重点。
 
-## Direção de arte
-- **Clima:** aconchegante, mágico e levemente misterioso, apesar de ser um jogo de ação.
-- **Bioluminescência:** cogumelos, plantas, cavernas e/ou elementos naturais que emitem luz.
-- **Paleta sugerida, não aprovada:** azuis noturnos, turquesas, lilases, verdes suaves e rosas; cores contrastantes para efeitos e anomalias.
-- **Pixel art:** sprites legíveis com silhuetas fortes, poucas cores por elemento e pixels nítidos.
-- **Referências visuais discutidas:** bioma de cogumelos luminosos de *Terraria* e atmosferas de *Animal Well*; *Dead Cells* segue como referência principal de combate.
-- **Contraste de identidade:** estética cozy não significa combate lento; o cenário pode ser acolhedor, mas as lutas devem ter impacto.
+## 美术方向
+- **氛围：** 温馨、奇幻、略带神秘感，即使这是一款动作游戏。
+- **生物荧光：** 发光蘑菇、植物、洞穴及其他自然元素。
+- **建议配色（尚未批准）：** 深夜蓝、青绿、淡紫、柔和绿色与粉色；异常效果使用对比色。
+- **像素艺术：** 轮廓清晰、单个元素使用较少颜色、像素边缘锐利。
+- **视觉参考：** Terraria 的发光蘑菇生态群落、Animal Well 的氛围；Dead Cells 仍是主要战斗参考。
+- **风格对比：** 温馨美术不意味着缓慢战斗；环境可以舒适，但战斗必须有冲击力。
 
-## Gameplay e construção de fases
-**Diretriz central:** criar primeiro uma fase divertida e bem executada, depois desenvolver a história que a sustenta.
+## 玩法与关卡制作
+**核心原则：** 先制作好玩且完成度高的关卡，再补充支撑它的故事。
 
-- Combate de ação 2D inspirado em Hack and Slash.
-- Ênfase em ataques, resposta dos controles e encontros com inimigos.
-- Movimentação funcional ao combate, sem projetar o jogo em torno de parkour.
-- O level design deve comunicar as ideias dos dois temas.
-- Evitar escopo excessivo: uma fase polida pode valer mais do que muitas incompletas.
+- 受砍杀动作游戏启发的二维战斗。
+- 注重攻击手感、操作反馈和敌人遭遇战。
+- 移动服务于战斗，不围绕跑酷设计。
+- 关卡设计需要体现两个主题。
+- 避免范围过大：一个精心打磨的关卡胜过多个未完成的关卡。
 
-### Possível integração dos temas (proposta, ainda não aprovada)
-A cada nova tentativa, uma floresta ou caverna bioluminescente muda sutilmente: luzes, cores, plantas, criaturas ou obstáculos passam a se comportar de modo estranho. Dessa forma:
-- **One More Time:** o jogador volta para tentar de novo.
-- **Something's Wrong:** o ambiente revela anomalias a cada repetição.
+### 主题结合的可能方案（尚未批准）
+每次重新尝试时，生物荧光森林或洞穴都会发生细微变化：光线、颜色、植物、生物或障碍物开始表现异常。
+- **One More Time：** 玩家再次尝试。
+- **Something's Wrong：** 环境在每次循环中展现异常。
 
-Esta é uma proposta de conceito, **não** uma mecânica definida pela equipe.
+这只是概念提案，**不是**团队已经确定的机制。
 
-## Ideias exploradas (não escolhidas)
-| Conceito | Ideia principal |
+## 探索过的创意（尚未选定）
+| 概念 | 核心创意 |
 | --- | --- |
-| Echoes of Myself | Tentativas anteriores se tornam cópias hostis |
-| Corrupted Loop | A fase se corrompe progressivamente nos reinícios |
-| One Last Strike | Luta sob limite de tempo e reinício |
-| System Error | Treinamento de combate com falhas |
-| The Cursed Blade | Ressurreição com vantagens e desvantagens |
-| Wrong Enemy | Inimigos e regras de combate mudam entre rodadas |
+| Echoes of Myself | 之前尝试的自己成为敌对复制体 |
+| Corrupted Loop | 每次重启后关卡逐渐受到侵蚀 |
+| One Last Strike | 在时间限制下战斗并重新开始 |
+| System Error | 存在故障的战斗训练 |
+| The Cursed Blade | 复活时同时获得增益与负面效果 |
+| Wrong Enemy | 每轮的敌人与战斗规则发生变化 |
 
-### Possíveis nomes — nenhum foi escolhido
-Oncebloom, Afterglow, Bloom Again, Luma Loop, Oddbloom, Everglow, Mossbound, Glowrift, Fungal Echo, Lumora, Rebloom, Hollow Bloom, Lumenfall, Twiceborn e Wrongroot.
+### 备选名称——尚未选定
+Oncebloom、Afterglow、Bloom Again、Luma Loop、Oddbloom、Everglow、Mossbound、Glowrift、Fungal Echo、Lumora、Rebloom、Hollow Bloom、Lumenfall、Twiceborn、Wrongroot。
 
-Os nomes são apenas sugestões e ainda precisam de avaliação de disponibilidade antes de uso final.
+以上名称只是建议，正式使用前还需检查是否可用。
 
-## Decisões pendentes
-- [ ] Escolher o nome oficial.
-- [ ] Confirmar a engine e a plataforma-alvo.
-- [ ] Definir exatamente como a referência de 16 × 32 pixels será usada (personagem, sprites ou padrão geral).
-- [ ] Definir protagonista, armas, inimigos e mecânicas principais.
-- [ ] Escolher a implementação concreta de **One More Time** e **Something's Wrong**.
-- [ ] Escolher a paleta final e produzir sprites de teste.
-- [ ] Definir a estrutura da fase e a condição de vitória.
+## 待确定事项
+- [ ] 选择正式游戏名称。
+- [ ] 确定游戏引擎和目标平台。
+- [ ] 明确 16 × 32 像素参考尺寸的用途。
+- [ ] 确定主角、武器、敌人与主要机制。
+- [ ] 决定如何具体实现 **One More Time** 与 **Something's Wrong**。
+- [ ] 选择最终配色并制作测试精灵。
+- [ ] 确定关卡结构和胜利条件。
 
 ---
 
-*Documento de pré-produção, consolidado a partir das conversas da equipe em 16/10/2026. Decisões confirmadas e ideias exploratórias foram separadas para evitar confusão.*
+*预制作文档，整理自团队 2026 年 10 月 16 日的讨论。已确定的决定与探索中的创意已分开记录，以避免混淆。*
