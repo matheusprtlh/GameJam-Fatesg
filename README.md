@@ -25,6 +25,12 @@ O jogo **deve incorporar os dois temas simultaneamente**:
 | Plataforma de lançamento | **A definir** |
 | Engine | **A definir** |
 
+## Referências de gameplay e combate
+- **Dead Cells:** referência principal já definida para combate Hack and Slash 2D.
+- **BlazBlue Entropy Effect:** nova referência sugerida para estudo de combos terrestres e aéreos, fluidez de ataques, dash/esquivas, habilidades especiais, variedade de estilos de luta e feedback visual dos golpes.
+
+**Status:** BlazBlue Entropy Effect foi adicionado como inspiração, não como decisão de implementar todas essas mecânicas. O escopo continua priorizando uma fase polida e combate responsivo, sem foco em parkour.
+
 ## Direção de arte
 - **Clima:** aconchegante, mágico e levemente misterioso, apesar de ser um jogo de ação.
 - **Bioluminescência:** cogumelos, plantas, cavernas e/ou elementos naturais que emitem luz.
